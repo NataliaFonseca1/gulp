@@ -1,0 +1,1 @@
+function multiplicar(l,i){return l*i}console.log(multiplicar(20,10)),module.exports=multiplicar;
